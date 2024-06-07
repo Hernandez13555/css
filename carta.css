@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+body{
+  background: #f2f2f2;
+  padding: 20px;
+  border-right: 18px;
+}
+h1{
+  margin: 20px 20px;
+}
+h2{
+ text-align: right; 
+}
+h1,h2{
+  color: rgb(16, 151, 16);
+}
+#parrafo{
+
+}
+p{
+  font-size: 20px;
+}
