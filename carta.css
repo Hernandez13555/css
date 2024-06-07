@@ -18,8 +18,9 @@ h1,h2{
   color: rgb(16, 151, 16);
 }
 #parrafo{
-
+  font-size: 18px;
+  color: black;
 }
 p{
-  font-size: 20px;
+  font-size: 18px;
 }
