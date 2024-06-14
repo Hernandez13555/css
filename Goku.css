@@ -1,0 +1,8 @@
+.goku{
+  display: block;
+  margin: 40px auto;
+  width: 400px;
+  height: 600px;
+  box-shadow: 0px 0px 20px 10px #ffee00;
+  filter: drop-shadow(5px 5px 10px #ffee00);
+}
